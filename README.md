@@ -1,3 +1,5 @@
+![Preview Image](maxresdefault-min.jpg)
+
 Blox Fruit script
 
 Installation
